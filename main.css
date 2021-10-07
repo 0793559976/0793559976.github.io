@@ -1,0 +1,42 @@
+ h1 ,h2 {
+    
+     color:#2980b9; 
+     text-align: center; 
+     font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-style: italic; 
+    font-weight: bolder; 
+ }  
+     header {
+               
+            background-color:orange;
+        }
+
+            header #logo {
+            border:3px solid black;
+            background-color:#2ecc71;
+            
+        }
+            
+        header nav {
+            color:black;
+            background-color:yellow;
+            font-size: 20px;
+            
+        }
+
+            
+        section #Noidung1,#Noidung2,#Noidung3,#Noidung4,#Noidung5,#Noidung6{
+                
+                color:black;
+                border: 1px solid red;
+                background-color:blanchedalmond; 
+                font-style:bold;
+        }
+
+        footer {
+            background-color: #7f8c8d;
+            text-align: right;
+            text-decoration: underline;
+        } 
+        
