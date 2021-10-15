@@ -13,8 +13,8 @@ h1,h2 {
             height: 80px;  
             padding-left: 10px;    
             padding-top: 15px;   
-            /* background: linear-gradient(  to right,paleturquoise,palevioletred); */
-             background-image: url(https://lh3.googleusercontent.com/proxy/JFyJKCRlAclKyYXhS8wMHZfOc9bGRtxm_vTd7ip47Lifz-PwfnJ9rNs9nR4Wq-36qyRg6tf3EkI7GOkWH9q1f6PjWCC2V2ZEUU793Bb9zJVXRXtQ0q-ZT_0mYz6Pf1rxrY7Oq1jwYFkFww); 
+             background: linear-gradient(  to right,paleturquoise,palevioletred); 
+             /* background-image: url(https://lh3.googleusercontent.com/proxy/JFyJKCRlAclKyYXhS8wMHZfOc9bGRtxm_vTd7ip47Lifz-PwfnJ9rNs9nR4Wq-36qyRg6tf3EkI7GOkWH9q1f6PjWCC2V2ZEUU793Bb9zJVXRXtQ0q-ZT_0mYz6Pf1rxrY7Oq1jwYFkFww);  */
         }
             
 header nav {
